@@ -1,0 +1,240 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-484997572",
+  "source": {
+   "name": "Question 1: Which one the following is needed by a device to transmit data onto a network?",
+   "showName": false,
+   "instructions": "**Question 1: Which one the following is needed by a device to transmit data onto a network?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Switch",
+     "correct": false,
+     "_id": "e170bbb8-4fa2-8f73-0acd-f5fc82ff29c1"
+    },
+    {
+     "answer": "Wireless access point",
+     "correct": false,
+     "_id": "cb246636-7f54-c542-5745-6da414efb5b3"
+    },
+    {
+     "correct": true,
+     "answer": "Network interface controller",
+     "_id": "c63ee948-9f1f-7ec2-39dc-61d6137de81c"
+    },
+    {
+     "answer": "Router",
+     "correct": false,
+     "_id": "88588e5b-bc33-93f4-2279-ecad9075ca82"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3291320016",
+  "source": {
+   "name": "Question 2: Which one of the following is used to allow wireless devices to link to a wired network?",
+   "showName": false,
+   "instructions": "**Question 2: Which one of the following is used to allow wireless devices to link to a wired network?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Switch",
+     "correct": false,
+     "_id": "5e5aed84-e114-1bed-187c-4d3c4bb48a7e"
+    },
+    {
+     "answer": "Hub",
+     "correct": false,
+     "_id": "bde0ce34-72bc-b455-5e76-55bd658fadcb"
+    },
+    {
+     "answer": "Fibre optic cable",
+     "correct": false,
+     "_id": "9b2b3318-406d-8299-8892-b7347028f88b"
+    },
+    {
+     "correct": true,
+     "answer": "Wireless access point",
+     "_id": "7aa30295-b4a4-8928-4216-60ca3cef93fd"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1594651365",
+  "source": {
+   "name": "Question 3: Which one of the following is used to connect LANs",
+   "showName": false,
+   "instructions": "**Question 3: Which one of the following is used to connect LANs**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Router",
+     "correct": false,
+     "_id": "3350228c-36c3-50bc-d352-a3bf8bed92ad"
+    },
+    {
+     "correct": true,
+     "answer": "Switch",
+     "_id": "f5ac0ee3-0028-0aa2-9455-6fc8a0d3d9f8"
+    },
+    {
+     "answer": "Network interface controller",
+     "correct": false,
+     "_id": "f5bcc0ff-1f1d-e744-4d1d-d807701cb6ae"
+    },
+    {
+     "answer": "Wireless access point",
+     "correct": false,
+     "_id": "b3e7fc71-8d6b-439b-df47-4cb1111f5c9c"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-956683256",
+  "source": {
+   "name": "Question 5: In fibre optic cables messages are transmitted as…",
+   "showName": false,
+   "instructions": "**Question 5: In fibre optic cables messages are transmitted as…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Radio waves",
+     "correct": false,
+     "_id": "7bbf353d-48ba-a109-40b5-beaba5215f3e"
+    },
+    {
+     "correct": true,
+     "answer": "Pulses of light",
+     "_id": "8da8b446-4724-ad28-9adf-f94cf6582933"
+    },
+    {
+     "answer": "Electric currents",
+     "correct": false,
+     "_id": "7db5478d-f4a0-3518-ad42-3e542a82fbb2"
+    },
+    {
+     "answer": "Microwaves",
+     "correct": false,
+     "_id": "8b3403ec-d477-4d1b-e1d7-70ef43f94bd3"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2227871450",
+  "source": {
+   "name": "Question 6: One gigahertz (1 GHz) is a frequency of…",
+   "showName": false,
+   "instructions": "**Question 6: One gigahertz (1 GHz) is a frequency of…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "One thousand million cycles per second",
+     "_id": "cb84a3bc-e17a-e698-c2be-f4943b0b7243"
+    },
+    {
+     "answer": "One million cycles per second",
+     "correct": false,
+     "_id": "e0e9b7d6-4ccc-d995-08e6-017892965d08"
+    },
+    {
+     "answer": "One hundred thousand cycles per second",
+     "correct": false,
+     "_id": "7aa42f70-4348-6d84-e6aa-5b64c02f65c3"
+    },
+    {
+     "answer": "One trillion cycles per second",
+     "correct": false,
+     "_id": "996e1351-3af6-6380-a06e-79f7add36ce4"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3379633663",
+  "source": {
+   "name": "Question 7: Bandwidth is a measure of…",
+   "showName": false,
+   "instructions": "**Question 7: Bandwidth is a measure of…**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "How fast the data is travelling in a medium",
+     "correct": false,
+     "_id": "6bec45dc-0043-1198-cc69-669ec3dc21ef"
+    },
+    {
+     "answer": "The time lag between sending a message and it being received",
+     "correct": false,
+     "_id": "5440b712-927c-c2b8-94ae-9b32fc5c7c0a"
+    },
+    {
+     "correct": true,
+     "answer": "The amount of data that can pass through the medium in a second",
+     "_id": "c20cb184-9c3b-3f0b-5c7b-8cf2f9f340fa"
+    },
+    {
+     "answer": "The amount of data that has to be retransmitted",
+     "correct": false,
+     "_id": "7296561f-7971-e5fd-2df3-dbf0e77ed3ec"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-942352960",
+  "source": {
+   "name": "Question 8: Which two of the following are advantages of wired networks over wireless ones?",
+   "showName": false,
+   "instructions": "**Question 8: Which two of the following are advantages of wired networks over wireless ones?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "answer": "They is easier and cheaper to install",
+     "correct": false,
+     "_id": "bbcd6230-998a-12cf-503c-6c9190d6f87a"
+    },
+    {
+     "answer": "Users can move from room to room without reconnecting",
+     "correct": false,
+     "_id": "4aae60ce-c769-b937-63f2-be771409aa6d"
+    },
+    {
+     "correct": true,
+     "answer": "Less signal interference",
+     "_id": "856a3753-8668-5332-8df2-059318e43e40"
+    },
+    {
+     "correct": true,
+     "answer": "Better security",
+     "_id": "85c82c1f-92a9-01da-c0e0-f3a0c624bac0"
+    }
+   ]
+  }
+ }
+]

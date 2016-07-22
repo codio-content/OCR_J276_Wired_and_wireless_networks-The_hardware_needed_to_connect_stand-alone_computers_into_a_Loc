@@ -1,0 +1,1 @@
+In this lesson we will look at how individual computing devices connect to local area networks and the hardware and transmission media needed.

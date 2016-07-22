@@ -1,0 +1,117 @@
+{
+ "sections": [
+  {
+   "id": "52d50aac-31ff-6212-6d8e-40bc6a1e24d0",
+   "title": "Introduction",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-52d5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3765dd1d-12c5-c8da-5311-216ba8a5132c",
+   "title": "NIC (Network Interface Controller/Card)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/NIC--Network-Interface-Controller-Card--3765.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3c1a7fca-1c87-270f-5871-34f2236298f3",
+   "title": "WAP - Wireless access points",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/WAP---Wireless-access-points-3c1a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8fe1930c-afc2-c3c4-94dd-48b498a0fa77",
+   "title": "Switches",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Switches-8fe1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cc2a92a4-c575-7b95-7127-3976d87a4d8c",
+   "title": "Routers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Routers-cc2a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b47b11d1-2848-1c60-0520-d57d799b2bcc",
+   "title": "Transmission media",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Transmission-media-b47b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "72946ba5-5038-efaf-ca2d-a2b569fdb824",
+   "title": "Comparison of using cable and wireless media",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Comparison-of-using-cable-and-wireless-media-7294.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bb73d4aa-1b50-2efb-366a-1accfa6a2bf8",
+   "title": "Factors affecting the performance of networks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Factors-affecting-the-performance-of-networks-bb73.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b4d0756c-7550-caa5-d189-33bda146121c",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-b4d0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bf45a6a1-9fd7-7c82-efc0-ad0a4bae2b6f",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-bf45.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

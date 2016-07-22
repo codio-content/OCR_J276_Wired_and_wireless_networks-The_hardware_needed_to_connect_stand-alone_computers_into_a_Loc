@@ -1,0 +1,3 @@
+A NIC (**N**etwork **I**nterface **C**ontroller) physically connects the device to the transmission media used by the network and allows it to send and receive data. Originally the medium was a cable but now many networks use radio waves (a type of microwave) or a combination of the two.
+
+The NIC formats the data sent from the computer into a required format according to the protocols (rules) of the network.
